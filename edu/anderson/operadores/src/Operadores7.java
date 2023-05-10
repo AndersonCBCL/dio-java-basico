@@ -37,5 +37,5 @@ public class Operadores7 {
         System.out.println(nomeCinco.equals(nomeSeis));
 
     }
-
+    
 }
